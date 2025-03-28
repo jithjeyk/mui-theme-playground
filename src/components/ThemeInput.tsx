@@ -1,13 +1,11 @@
 import { useState } from "react";
 import {
   TextField,
-  TextareaAutosize,
   Button,
   Typography,
   Box,
   IconButton,
   Tooltip,
-  Divider,
 } from "@mui/material";
 import { ContentCopy as ContentCopyIcon } from "@mui/icons-material";
 import { validateTheme } from "../themes/themeUtils";

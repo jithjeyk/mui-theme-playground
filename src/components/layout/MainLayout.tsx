@@ -1,4 +1,4 @@
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { ThemeProvider, Grid, Container } from "@mui/material";
 import { createMuiTheme } from "../../themes/themeUtils";
 import { defaultThemes } from "../../themes/defaultThemes";
